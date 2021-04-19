@@ -1,8 +1,10 @@
 ### Hi there, I'm Cameron 👋
 
-My Last Video
+I'm a Full-stack Developer @ Swyft On-Site Services
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zrLf4KMs71E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Favorite Tech & Tools
+
+<p><img height="25" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="React" dragable="false"/> </p>
 
 ### 📈 The Stats!
 
