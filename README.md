@@ -5,10 +5,19 @@ I'm a Full-Stack Developer @ <a href="https://inviteswyft.com/">Swyft On-Site Se
 ### Favorite Tech & Tools
 
 <p>
+    <img height="25" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="Javascript"/>
+    <img height="30" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML"/>
+    <img height="30" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" alt="CSS"/>
+    <img height="25" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python"/>
+    <img height="25" src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby"/>
+</p>
+<p>
     <img height="25" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="React"/>
     <img height="25" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" alt="NodeJS"/>
+    <img height="25" src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" alt="Ruby on Rails"/>
+    <img height="25" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt="Django"/>
     <img height="25" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="MongoDB"/>
-     <img height="15" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="ExpressJS"/>
+    <img height="25" src="https://cdn.svgporn.com/logos/postgresql.svg" alt="Postgresql"/>
 </p>
 <p>
     <img height="15" src="https://seeklogo.com/images/N/nginx-logo-B38DADE410-seeklogo.com.png" alt="Nginx" />
