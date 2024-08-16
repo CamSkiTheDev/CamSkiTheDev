@@ -1,6 +1,6 @@
 ### Hi there, I'm Cameron 👋
 
-I'm a Full-Stack Developer @ <a href="https://innermatrixsystems.com/">Inner Matrix Systems</a>
+I'm a Full-Stack Engineer @ <a href="https://ibotta.com/">Ibotta</a>
 
 ### Favorite Tech & Tools
 
