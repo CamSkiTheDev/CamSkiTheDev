@@ -33,6 +33,6 @@ I'm a Full-Stack Engineer @ <a href="https://ibotta.com/">Ibotta</a>
 </p>
 
 ### 📈 The Stats!
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamSkiTheDev&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-camskithedevs-projects.vercel.app/api/top-langs/?username=CamSkiTheDev&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamSkiTheDev&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Cameron's GitHub stats](https://github-readme-stats-camskithedevs-projects.vercel.app/api?username=CamSkiTheDev&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
