@@ -1,4 +1,5 @@
 ### Hi there, I'm Cameron 👋
+[![Codewars Honor](https://www.codewars.com/users/CamSkiTheDev/badges/small)](https://www.codewars.com/users/CamSkiTheDev/)
 
 I'm a Full-Stack Engineer @ <a href="https://ibotta.com/">Ibotta</a>
 
