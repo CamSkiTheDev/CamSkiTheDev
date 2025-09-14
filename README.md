@@ -21,7 +21,7 @@ I'm a Full-Stack Engineer @ <a href="https://ibotta.com/">Ibotta</a>
 </p>
 <p>
     <img height="25" src="https://images.seeklogo.com/logo-png/36/1/material-ui-logo-png_seeklogo-363138.png" alt="Material UI" />
-    <img height="25" src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png" alt="TailwindCSS"
+    <img height="25" src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png" alt="TailwindCSS" />
 </p>
 
 ### 📈 The Stats!
